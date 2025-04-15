@@ -1,9 +1,7 @@
 import java.util.Scanner;
-import java.util.Random;
 
 public class VetorOrdenacao {
     public static Scanner input = new Scanner(System.in);
-    public static Random aleatorio = new Random();
 
     public static void preencherVetor(int[] v, int n) {
         for (int i = 0; i < n; i++) {
