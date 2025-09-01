@@ -16,7 +16,7 @@ public class Vetores03 {
 
         System.out.print("Números: ");
         for (int i = 0; i < numeros.length; i++) {
-            if (i % 2 == 1) {
+            if (numeros[i] % 2 == 0) {
                 System.out.print(numeros[i] + " ");
             }
         }
