@@ -1,3 +1,4 @@
+package lista1;
 // 12.Faça um programa para ler 10 números DIFERENTES a serem armazenados em 
 // um vetor. Os dados deverão ser armazenados no vetor na ordem que forem 
 // sendo lidos, sendo que, caso o usuário digite um número que já foi digitado 

@@ -1,3 +1,4 @@
+package lista1;
 // 11.Faça um programa que calcule o desvio padrão de um vetor V contendo n = 10 
 // números, onde ‘m’ e a média do vetor.
 

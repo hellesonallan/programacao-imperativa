@@ -1,3 +1,4 @@
+package lista1;
 // 6. Escreva um programa que leia o nome e a idade de 20 pessoas e exiba, após o 
 // fim da entrada de dados, a idade média do grupo e o nome das pessoas com 
 // idade acima da média

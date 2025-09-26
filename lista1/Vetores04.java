@@ -1,3 +1,4 @@
+package lista1;
 // 4. Escreva um algoritmo que leia 15 nomes de pessoas e armazene-os em um 
 // Vetor. Após a digitação do último nome, imprima-os na sequência contrária (ou 
 // seja, o último nome digitado deve ser o primeiro a ser impresso, etc)

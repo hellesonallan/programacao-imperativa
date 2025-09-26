@@ -1,3 +1,4 @@
+package lista1;
 // 10. Leia dois vetores de inteiros x e y, cada um com 5 elementos (assuma que o 
 // usuário não informa elementos repetidos). Calcule e mostre os vetores 
 // resultantes em cada caso abaixo: 

@@ -1,3 +1,4 @@
+package lista1;
 // 5. Escreva um programa que leia 20 números e após o fim da entrada de dados, 
 // exiba na tela, primeiro os elementos com conteúdo ímpar e depois os 
 // elementos das posições pares.

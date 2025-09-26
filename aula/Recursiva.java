@@ -1,3 +1,4 @@
+package aula;
 public class Recursiva {
     static int fatorial(int n) {
         if (n == 0) {

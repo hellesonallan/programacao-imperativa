@@ -1,3 +1,4 @@
+package lista1;
 // 3. Escreva um algoritmo que Leia 10 valores inteiros e armazene-os em um Vetor. 
 // Após a digitação do último valor, imprima os elementos com conteúdo par
 
